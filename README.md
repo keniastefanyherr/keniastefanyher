@@ -28,19 +28,6 @@ Estas son algunas de las tecnologías y herramientas con las que me formo y trab
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keniastefanyherr&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniastefanyherr&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keniastefanyherr&theme=dracula&hide_border=true" alt="Racha de GitHub" width="97%" />
-</p>
-
----
-
 ## 📫 Conéctate conmigo
 
 ¡Siempre estoy abierta a colaborar en proyectos académicos, compartir conocimientos o simplemente conversar sobre desarrollo de software!

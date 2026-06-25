@@ -16,9 +16,9 @@
 
 ## 🌌 Sobre Mí
 
-¡Hola, mundo! Mi nombre es **Kenia Stefany (Fany) Herrera**. Soy una apasionada **Desarrolladora de Software en formación** en El Salvador, actualmente cursando mi último año de Bachillerato Técnico. 
-
-Me especializo en la creación de aplicaciones full-stack, la automatización de procesos mediante scripts y el diseño de bases de datos relacionales robustas. Me encanta moverme en entornos de terminal, optimizar flujos de trabajo en sistemas Unix y explorar la intersección entre la lógica pura y el diseño estético.
+<p align="justify">
+¡Hola, mundo! Mi nombre es <b>Kenia Stefany (Fany) Herrera</b>. Soy una apasionada <b>Desarrolladora de Software en formación</b> en El Salvador, actualmente cursando mi último año de Bachillerato Técnico. Me especializo en la creación de aplicaciones full-stack, la automatización de procesos mediante scripts y el diseño de bases de datos relacionales robustas. Me encanta moverme en entornos de terminal, optimizar flujos de trabajo en sistemas Unix y explorar la intersección entre la lógica pura y el diseño estético.
+</p>
 
 * 🎓 **Formación Actual:** 3er Año de Bachillerato Vocacional en Desarrollo de Software.
 * ⚡ **Filosofía de desarrollo:** Código limpio, bases de datos bien normalizadas y interfaces oscuras/minimalistas.
@@ -28,78 +28,36 @@ Me especializo en la creación de aplicaciones full-stack, la automatización de
 
 ## 🛠️ Tech Stack & Herramientas
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Lenguajes de Programación</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Frontend & Frameworks</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & Frameworks</h3>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Databases & Servidores</h3>
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐧 Entornos & DevOps</h3>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ CMS & E-Commerce</h3>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,php,react,html,css,nodejs,flask,mariadb,mysql,ubuntu,linux,git,wordpress,workers&perline=8" alt="Mis Tecnologías" />
+</p>
 
 ---
 
 ## 📂 Portafolio de Proyectos
 
-Aquí puedes explorar algunos de mis desarrollos de software más importantes hasta la fecha:
-
 <table>
   <tr>
     <td>
       <h3>🚀 Fastech</h3>
-      <p>Sistema web full-stack de control y gestión de inventario. Arquitectura moderna, reactiva y optimizada para la administración de stock.</p>
+      <p align="justify">Sistema web full-stack de control y gestión de inventario. Arquitectura moderna, reactiva y optimizada para la administración de stock.</p>
       <sup>React / Node.js / MariaDB</sup>
     </td>
     <td>
       <h3>🪐 Simulador de Mecánica Orbital</h3>
-      <p>Un simulador físico e interactivo basado en las leyes de Kepler y gravitación universal. Desarrollado con enfoque lógico y matemático.</p>
+      <p align="justify">Un simulador físico e interactivo basado en las leyes de Kepler y gravitación universal. Desarrollado con enfoque lógico y matemático.</p>
       <sup>Python / Git</sup>
     </td>
   </tr>
   <tr>
     <td>
       <h3>🐾 Centro de Adopción de Perritos</h3>
-      <p>Sistema de gestión relacional para flujos de adopción de mascotas. Incluye control de usuarios, estados de adopción y manejo estricto de base de datos.</p>
+      <p align="justify">Sistema de gestión relacional para flujos de adopción de mascotas. Incluye control de usuarios, estados de adopción y manejo estricto de base de datos.</p>
       <sup>Flask / MariaDB / Python</sup>
     </td>
     <td>
       <h3>📐 Rota-Med & Modelado 3D</h3>
-      <p>Diseño y prototipado de hardware para un dispositivo dispensador médico analógico. Flujo de trabajo combinando precisión técnica y modelado tridimensional.</p>
+      <p align="justify">Diseño y prototipado de hardware para un dispositivo dispensador médico analógico. Flujo de trabajo combinando precisión técnica y modelado tridimensional.</p>
       <sup>Tinkercad / Blender / Cura</sup>
     </td>
   </tr>
@@ -132,12 +90,11 @@ Aquí puedes explorar algunos de mis desarrollos de software más importantes ha
 
 ---
 
-## 📫 Conéctate conmigo
+## ✉️ Conéctate conmigo
 
-¡Siempre estoy lista para nuevos retos, hackathons, proyectos colaborativos o discusiones complejas sobre bases de datos y desarrollo backend!
-
-* 💻 Revisa mis repositorios y hazle un *fork* a lo que te interese.
-* 💬 ¿Quieres construir algo juntos? Escríbeme un correo o búscame en mis redes.
+<p align="justify">
+¡Siempre estoy lista para nuevos retos, hackathons, proyectos colaborativos o discusiones complejas sobre bases de datos y desarrollo backend! Revisa mis repositorios y hazle un <i>fork</i> a lo que te interese. ¿Quieres que construyamos algo juntos? No dudes en escribirme.
+</p>
 
 <br />
 

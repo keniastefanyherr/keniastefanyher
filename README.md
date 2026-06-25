@@ -1,7 +1,7 @@
 # ¡Hola! Soy Kenia Herrera 👋 👩‍💻
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keniastefanyher&label=Visitas%20al%20Perfil&color=bf5af2&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=keniastefanyherr&label=Visitas%20al%20Perfil&color=bf5af2&style=flat-square" alt="Visitas" />
 </p>
 
 ---
@@ -31,12 +31,12 @@ Estas son algunas de las tecnologías y herramientas con las que me formo y trab
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keniastefanyher&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniastefanyher&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keniastefanyherr&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniastefanyherr&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keniastefanyher&theme=dracula&hide_border=true" alt="Racha de GitHub" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keniastefanyherr&theme=dracula&hide_border=true" alt="Racha de GitHub" width="97%" />
 </p>
 
 ---
